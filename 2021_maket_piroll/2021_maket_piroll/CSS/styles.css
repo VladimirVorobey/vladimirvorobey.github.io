@@ -1,0 +1,26 @@
+.banner{
+
+  background-image: linear-gradient(90deg,rgb(198, 201, 210) 67%,rgb(234, 234, 242) );
+  height: 700px;
+  z-index: -1;
+}
+
+.banner__image{
+
+  background: url(../img/banner.png) left no-repeat;
+background-size: contain;
+  height: 700px;
+  z-index: 1;
+}
+
+
+.testportfolio{
+    height: 600px;
+    border: 2px solid red;
+}
+
+.testfirst-image{
+    width: 500px;
+    height: 400px;
+    background:url(../img/portfolio/bag.png)  no-repeat;
+}
